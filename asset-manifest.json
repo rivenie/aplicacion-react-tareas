@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aplicacion-react-tareas/static/css/main.c1b41fa6.css",
+    "main.js": "/aplicacion-react-tareas/static/js/main.a2d4f844.js",
+    "index.html": "/aplicacion-react-tareas/index.html",
+    "main.c1b41fa6.css.map": "/aplicacion-react-tareas/static/css/main.c1b41fa6.css.map",
+    "main.a2d4f844.js.map": "/aplicacion-react-tareas/static/js/main.a2d4f844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1b41fa6.css",
+    "static/js/main.a2d4f844.js"
+  ]
+}
