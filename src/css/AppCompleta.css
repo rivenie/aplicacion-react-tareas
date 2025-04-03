@@ -1,0 +1,42 @@
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body { 
+  min-height: 100vh; 
+}
+
+.titulo{
+  margin: 25px 0;
+  font-size: 30px;  
+  font-weight: 700;
+  font-style: normal;
+  color: #1b1b32;
+}
+
+.contenedor-app{
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%);
+  width: 50vw;
+  min-width: 350px;
+  display: flex;  
+  background: #d3cacc;
+  flex-flow: column;
+  align-items: center;  
+  border-radius: 26px;
+  height: 500px;
+  padding-bottom: 15px; 
+  border: 10px solid #df672d;   
+  overflow-y: overlay;
+  -ms-overflow-style: none; /* Oculta la barra de desplazamiento en IE y Edge */
+  scrollbar-width: none; /* Oculta la barra de desplazamiento en Firefox */
+}
+
+.contenedor-app::-webkit-scrollbar{
+  display: none;  /* Oculta la barra de desplazamiento en navegadores WebKit (Chrome, Safari) */
+}

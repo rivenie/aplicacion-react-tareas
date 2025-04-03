@@ -1,0 +1,9 @@
+body{
+  background-color: #09156b;
+  color: #ffffff;
+}
+
+.contenedor-tareas{  
+  width: 90%;
+  margin-top: 20px;
+}
